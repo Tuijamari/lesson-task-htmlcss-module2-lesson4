@@ -9,4 +9,4 @@ In this lesson task we will be looking at adding padding and other styling to sp
 
 By the end of the task, your home page should look like this
 
-![Result of Task 2.4](html-css_task2-4_result.PNG)
+![Result of Task 2.4](assets/html-css_task2-4_result.PNG)
