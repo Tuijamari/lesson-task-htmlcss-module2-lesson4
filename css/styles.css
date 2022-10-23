@@ -39,13 +39,26 @@ a {
 header a {
   color: #fff;
 }
-
 .cta {
   background-color: #bb0000;
   color: #fff;
-  font-size: 1.5em;
+  font-size: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 50 px 150px;
+  margin: 5 px;
+  text-transform: uppercase;
 }
-
+.cta small {
+  background-color: #bb0000;
+  color: #fff;
+  font-size: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 20 px 80 px;
+  margin: 5 px;
+  text-transform: uppercase;
+}
 .active {
   text-decoration: underline;
 }
@@ -60,6 +73,7 @@ header a {
 
 .cta-sale {
   background-color: #127300;
+  color: #fff;
 }
 
 footer {
